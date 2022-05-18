@@ -1,0 +1,21 @@
+browser:
+  browserName: chrome
+  headlessBrowser: false
+  webElementTimeOut: 15
+
+environment:
+  test1:
+    name: Ania
+    active: true
+    cityName: London,uk
+    idNumber: b1b15e88fa797225412429c1c50c122a1
+    envName: test1
+    appUrl: https://samples.openweathermap.org/data/2.5/weather
+
+#
+#
+#  test2:
+#    active: false
+#    envName: test2
+#    appUrl: https://seleniumui.moderntester.pl/form.php
+
