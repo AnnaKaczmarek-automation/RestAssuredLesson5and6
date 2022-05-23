@@ -5,17 +5,40 @@ browser:
 
 environment:
   test1:
-    name: Ania
     active: true
     cityName: London,uk
     idNumber: b1b15e88fa797225412429c1c50c122a1
     envName: test1
     appUrl: https://samples.openweathermap.org/data/2.5/weather
+    temp: 280.32
+    pressure: 1012
+    humidity: 81
+    temp_min: 279.15
+    temp_max: 281.15
+    speed: 4.1
+    deg: 80
+    visibility: 10000
+    cloudsAll: 90
+    dt: 1485789600
+    sysType: 1
+    sysId: 5091
+    sysMessage: 0.0103
+    sysCountry: GB
+    sysSunrise: 1485762037
+    sysSunset: 1485794875
+    id: 2643743
+    name: London
+    cod: 200
+    base: stations
+    coordLon: -0.13
+    coordLat: 51.51
+    weatherId: 300
+    weatherMain: Drizzle
+    weatherDescription: light intensity drizzle
+    weatherIcon: 09d
 
-#
-#
-#  test2:
-#    active: false
-#    envName: test2
-#    appUrl: https://seleniumui.moderntester.pl/form.php
+
+
+
+
 
